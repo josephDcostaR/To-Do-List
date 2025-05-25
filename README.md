@@ -2,6 +2,10 @@
 
 Projeto de estudo utilizando **HTML**, **CSS** e **JavaScript**.
 
+### Link de Acesso
+[Easy To-Do List](https://josephdcostar.github.io/To-Do-List/)
+
+
 ---
 
 ## 🚀 Como funciona:
